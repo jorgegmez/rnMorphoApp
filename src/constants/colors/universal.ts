@@ -1,0 +1,14 @@
+export const BLACK = '#000000';
+export const RGBA_BLACK = 'rgba(0, 0, 0, 0.1)';
+export const RED = 'red';
+export const PRIMARY_BLUE = '#002D55';
+export const SECONDARY_BLUE = '#1c3254';
+export const TERTEARY_BLUE = '#007aff';
+export const DARKER_BLUE = '#011A32';
+export const PRIMARY_WHITE = '#ffffff';
+export const SECONDARY_WHITHE = '#f0f3f9';
+export const LIGHT_GREEN = '#66be57';
+export const PRIMARY_GOLD = '#efc33b';
+export const SECONDARY_GOLD = '#ffcc00';
+export const TERTEARY_GOLD = '#f2b40a';
+export const LIGHT_GREY = '#C8C3C3';

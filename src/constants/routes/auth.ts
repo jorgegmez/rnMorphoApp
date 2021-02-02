@@ -1,0 +1,2 @@
+export const AUTH = 'AUTH';
+export const AUTH_RECOVERY_PASSWORD = 'AUTH_RECOVERY_PASSWORD';
